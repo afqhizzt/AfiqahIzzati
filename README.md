@@ -29,6 +29,8 @@ I am a dedicated and motivated student currently pursuing a Bachelor of Computer
 - JavaScript
 - Java
 - HTML/CSS
+- C++
+- C
 - Node.js
 - Python
 - SQL

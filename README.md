@@ -1,5 +1,4 @@
 # Afiqah Izzati
-![Profile Picture](profile-picture.jpg)
 
 **Location:** Seremban, Negeri Sembilan, Malaysia
 **Email:** afiqahizzati021104@gmail.com
